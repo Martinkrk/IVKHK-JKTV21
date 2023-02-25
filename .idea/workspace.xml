@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89e45660-8a16-4a06-a8e9-c3ade7daf8ed" name="Changes" comment="Consolidating projects">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackjack/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackjack/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Blackjack/src/blackjack/BlackJack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BooksAuthors/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BooksAuthors/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BooksAuthors/src/booksauthors/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BooksAuthors/src/booksauthors/BooksAuthors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BooksAuthors/src/myclasses/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BooksAuthors/src/myclasses/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BooksAuthors/src/tools/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Celsium/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Celsium/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Celsium/src/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChineseCalendar/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChineseCalendar/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChineseCalendar/src/test3_calendar/Test3_Calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EvenMean/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EvenMean/JKTV21_EvenMean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EvenMean/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EvenMean/src/evenmean/EvenMean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiplication/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiplication/src/multiplication/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/data/customers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/data/products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/data/purchases.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/entity/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/entity/Purchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/jktv21MyGroceryStore/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/jktv21MyGroceryStore/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/jktv21MyGroceryStore/MyGroceryStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/manager/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/manager/DatabaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/manager/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/manager/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/manager/PurchaseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/manager/Tools.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyGroceryStore/src/manager/interfaces/SaveManagerInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pangram/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pangram/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pangram/src/pangram/Pangram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringEdit/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringEdit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringEdit/.idea/JKTV21_String_Edit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringEdit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringEdit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringEdit/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringEdit/src/stringedit/StringEdit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task1/src/jktv21task1gerstman/JKTV21Task1Gerstman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task2/src/jktv21task2gerstman/JKTV21Task2Gerstman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task3/src/jktv21task3gerstman/JKTV21Task3Gerstman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4/src/jktv21task4gerstman/JKTV21Task4Gerstman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/JKTV21_Task5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/jktv21task5gerstman/JKTV21Task5Gerstman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temperature/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temperature/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Temperature/src/temperature/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToe/grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToe/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToe/player.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TicTacToe/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/src/conf/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/src/java/servlets/MyServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/web/WEB-INF/jspf/footer.jspf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/web/WEB-INF/jspf/header.jspf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/web/WEB-INF/page1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/web/WEB-INF/page3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/web/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/web/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/web/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/web/pageJsp1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebTest/web/pageJsp2.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2METdc5Wnjx2nQSvMImQlytIBFS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/JKTV21_Shop"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89e45660-8a16-4a06-a8e9-c3ade7daf8ed" name="Changes" comment="" />
+      <created>1677331830305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677331830305</updated>
+      <workItem from="1677331835878" duration="2196000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Consolidating projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Consolidating projects" />
+  </component>
+</project>
